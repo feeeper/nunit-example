@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitExamples", "MbUnitExamples\NUnitExamples.csproj", "{A709BA42-3B77-4D4C-9E5C-6FEA57FDE83B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitExamples", "NUnitExamples\NUnitExamples.csproj", "{A709BA42-3B77-4D4C-9E5C-6FEA57FDE83B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitExamples.Tests", "MbUnitExamples.Tests\NUnitExamples.Tests.csproj", "{1AB25C7B-DA8D-4635-8DC2-444C0B99B1A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitExamples.Tests", "NUnitExamples.Tests\NUnitExamples.Tests.csproj", "{1AB25C7B-DA8D-4635-8DC2-444C0B99B1A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
